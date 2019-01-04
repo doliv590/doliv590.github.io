@@ -1,5 +1,7 @@
-alert('test du js');
-/*confirm ('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please') 
- /* window.location.replace('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
 
- 
+	setTimeout(function(){
+	  confirm("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please")
+		{ window.location.replace('https://www.youtube.com/watch?v=dQw4w9WgXcQ')}; 
+
+
+ ; }, 10000); 
