@@ -1,4 +1,5 @@
 
+
 var answer
 setTimeout(function(){answer = confirm("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please")
 if (answer)
@@ -23,6 +24,7 @@ else window.location="https://doliv590.github.io"},10000);
 	else window.location='https://doliv590.github.io";}, 3000) */ 
 /* setTimeout(function(answer)confirm('Hey le site......') if (answer) window.location.replace('https://www.youtube.fr'); 
 	else window.location="https://doliv590.github.io"; 3000);  */
+
 
 
 
